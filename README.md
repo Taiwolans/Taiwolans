@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Taiwolans
+- An E-commerce product lister/Content writer
 - 👀 I’m interested in learning website development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on how to master HTML and CSS and also integration of JAVASCRIPT
